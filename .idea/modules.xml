@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/OOP_1/OOP_1.iml" filepath="$PROJECT_DIR$/OOP_1/OOP_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP_2/OOP_2.iml" filepath="$PROJECT_DIR$/OOP_2/OOP_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP_3/OOP_3.iml" filepath="$PROJECT_DIR$/OOP_3/OOP_3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP_4/OOP_4.iml" filepath="$PROJECT_DIR$/OOP_4/OOP_4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/OOTPaSC.iml" filepath="$PROJECT_DIR$/.idea/OOTPaSC.iml" />
+    </modules>
+  </component>
+</project>
